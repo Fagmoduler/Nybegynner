@@ -1,0 +1,16 @@
+# Fagmodul-manifest for Studio 15 (referansemodellen rev 02).
+# Leses av lærer-UI-et: gruppering per fagområde, sortering per kompetansetrinn.
+#
+# Kompetansetrinn: Konseptforståelse | Komponentutvikling | Systemintegrasjon | Prosjektleveranse
+# Kjernepraksis:   Utforske og forstå med AI | Skape og utvikle iterativt |
+#                  Analysere, feilsøke og kvalitetssikre | Dokumentere, samarbeide og levere
+# Fagområde:       Almenfag | Automasjon | MCAD | BIM | Konfiguratorer
+navn: Nybegynner
+beskrivelse: >
+  Oppstart for nye brukere for å få den første erfaring med å jobbe med prosjekter i Studio 15.
+kompetansetrinn: Konseptforståelse
+kjernepraksis:
+  - Utforske og forstå med AI
+fagomraade: Almenfag
+opplevelse: studio  # studio = VS Code-editoren; enkel = chat+webedit (kommer)
+status: utkast  # utkast vises aldri i klasse-veiviseren
