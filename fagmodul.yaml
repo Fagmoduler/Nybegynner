@@ -9,7 +9,7 @@ beskrivelse: >
   Oppstart for nye brukere for å få den første erfaring med å jobbe med prosjekter i Studio 15.
 kompetansetrinn: Konseptforståelse
 arbeidsmaater:
-  - Utforske og forstå med AI
+  - Utforske
 fagomraade: Almenfag
 opplevelse: studio  # studio = VS Code-editoren; enkel = chat+webedit (kommer)
 status: aktiv  # utkast vises aldri i klasse-veiviseren
